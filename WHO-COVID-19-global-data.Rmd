@@ -1,0 +1,50 @@
+---
+title: "STAT 690 COVID Open Code"
+author: "Wei-Chen Lu"
+date: "2021/6/22"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+```
+
+#WHO-COVID-19-global-data
+-This dataset contains all the countries suffering COVID19 from January.3.2020 to March.24.2021. This datasets has confirmed positive cases, cummlative cases, deaths counts, and cummlative death counts. Those columns are count in daily. Students can download this CSV file from Canvas directly and apply this code to read this dataset. 
+
+-Step 1. Download the file directly to desktop and save this R file to desktop as well, so that the working dictionary is matched to open the dataset in R.
+```{r}
+G_Covid<-read.csv("WHO-COVID-19-global-data.csv")
+head(G_Covid)
+```
+
+```{r}
+library(tidyverse)
+```
+# we can do some easy things to see who this dataset's "voice".
+-Filter 
+Filter is from package "dplyr" which is included in package "tidyverse". Filter function is as its name that allows users to filter out the raw data without other noises.
+
+# If I only want to see the United State's COVID-19's data then we can apply "filter" to filter out the data we want.
+```{r}
+filter(G_Covid, Country_code=="US")-> US_covid
+US_covid
+```
+
+-There is a better way to write the code with "pipe":  %>%. This %>%  operator is used to update a value by first piping it into one or more expressions, and then assigning the result.
+```{r}
+G_Covid %>% filter(Country_code=="US")
+```
+
+-This is exactly the same to the above result, but with a good expression path. 
+
+
+
+
+
+
+
