@@ -1,2 +1,1 @@
-# Professional-Development-Data-Archive
-Datasets for Data Science Training
+Data Science Professional Development Workshop
