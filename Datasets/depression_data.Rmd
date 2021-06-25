@@ -1,0 +1,35 @@
+---
+title: "STAT 690 DATADownload"
+author: "Wei-Chen Lu"
+date: "2021/6/21"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Dowmload proper library for loading datasets and cleaning the data for better visualization.
+```{r}
+#install.packages("tidyverse")
+#install.packages("Readr")
+```
+
+
+# Depression Dataset
+-Depression data set is from A study of 1,594 high school students has been conducted in order to find socioeconomic and family factors that may be associated with stress and depression.
+
+# Method 1: Download the csv from file directly
+-To be more specific, students can download the csv file from Canvas directly to them own pc's desktop and then open a Rmd file and store it at desktop as well. After doing this, students can apply this code to open the data set directly.
+```{r}
+read.csv("depression_data.csv")->dp
+head(dp)
+```
+
+#Method 2: Download the dataset from website hyperlink:
+-This depression dataset can be found on several open data websites, and here we prepare to download this dataset through a super link from the AU's course website which made by Dr.Baron, a statistic machine learning specialist working as Professor in AU for over 15 years.  
+
+"http://fs2.american.edu/baron/www/627/" This is a website allow people who have strong interests to learn and to work with machine learning in R.
+```{r}
+read.csv(url("http://fs2.american.edu/~baron/627/R/depression_data.csv%22))-> dp
+head(dp)
+```
