@@ -1,42 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@jgill22
-jgill22 /
-Professional-Development-Data-Archive
-
-1
-0
-
-    2
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-Professional-Development-Data-Archive/WHO-COVID-19-global-data.Rmd
-@jgill22
-jgill22 Add files via upload
-Latest commit 422dba5 yesterday
-History
-1 contributor
-50 lines (35 sloc) 1.59 KB
----
-title: "STAT 690 COVID Open Code"
-author: "Wei-Chen Lu"
-date: "2021/6/22"
-output: pdf_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
