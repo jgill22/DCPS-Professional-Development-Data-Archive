@@ -1,4 +1,9 @@
-
+---
+title: "STAT 690 COVID Open Code"
+author: "Wei-Chen Lu"
+date: "2021/6/22"
+output: pdf_document
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
