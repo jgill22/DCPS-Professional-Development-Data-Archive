@@ -1,0 +1,106 @@
+"Sample","Address","Material","Date","Lead"
+1,"1012 DOUGLAS ST NE","Lead","8/26/2020",0
+2,"1332 Ritchie Pl NE","Partial Lead","10/1/2020",0
+3,"1354 D St SE","Partial Lead","9/30/2020",0
+4,"1437 Ives Pl SE","Partial Lead","9/30/2020",0
+5,"1453 S St NW","Partial Lead","10/29/2020",0
+6,"1630 NEW JERSEY AVE NW","Lead","10/26/2020",0
+7,"3036 P St NW","Partial Lead","10/28/2020",0
+8,"3416 9th St NE","Partial Lead","10/27/2020",0
+9,"3547 16th St NW","Lead","8/5/2020",0
+10,"3670 Park Pl NW","LEAD","9/17/2020",0
+11,"419 12th St SE","Lead","10/25/2020",0
+12,"423 GALLATIN ST NW","Lead","8/27/2020",0
+13,"4233 JENIFER ST NW","Partial Lead","10/28/2020",0
+14,"4536 Lowell St NW","Lead","7/30/2020",0
+15,"4707 GEORGIA AVE NW","Partial Lead","9/30/2020",0
+16,"559 23rd PL NE","Lead","7/29/2020",0
+17,"912 15TH ST SE","Lead","8/25/2020",0
+18,"219 Underwood St NW","Lead","8/25/2020",0.2
+19,"3205 38TH ST NW","Lead","9/28/2020",0.2
+20,"1115 C St NE","Lead","7/29/2020",0.3
+21,"1625 Webster St NW","Lead","11/29/2020",0.3
+22,"231 K St NE","Partial Lead","12/9/2020",0.3
+23,"3567 Holmead Pl NW","Lead","7/28/2020",0.3
+24,"3854 Beecher St NW","Lead","11/1/2020",0.3
+25,"4002 ILLINOIS AVE NW","Partial Lead","10/28/2020",0.3
+26,"4425 14th St NE","Lead","9/30/2020",0.3
+27,"4926 Glenbrook Rd NW","Partial Lead","9/30/2020",0.3
+28,"5223 KANSAS AVE NW","Partial Lead","10/27/2020",0.3
+29,"1100 EAST CAPITOL ST NE","Lead","7/28/2020",0.4
+30,"1353 JEFFERSON ST NW","Partial Lead","10/27/2020",0.4
+31,"1706 NEW JERSEY AVE NW","Lead","8/26/2020",0.4
+32,"1858 Park Rd NW","Lead","12/8/2020",0.4
+33,"3907 13th St NW","Partial Lead","9/30/2020",0.4
+34,"4312 14th St NW","Lead","11/7/2020",0.4
+35,"511 Tennessee Ave NE","LEAD","7/29/2020",0.4
+36,"905 Kent Pl NE","Lead","8/26/2020",0.4
+37,"1528 Upshur St NW","Lead","10/28/2020",0.5
+38,"1620 Webster St NW","Lead","10/1/2020",0.5
+39,"1808 KEARNY ST NE","Partial Lead","9/30/2020",0.5
+40,"3074 Clinton St NE","Lead","7/29/2020",0.5
+41,"3114 15th St NE","Lead","8/26/2020",0.5
+42,"313 10TH ST SE","Partial Lead","10/28/2020",0.5
+43,"3724 CHESAPEAKE ST NW","Partial Lead","10/28/2020",0.5
+44,"104 7th ST NE","Lead","9/9/2020",0.6
+45,"1420 INGRAHAM ST NW","Partial Lead","10/28/2020",0.6
+46,"1635 WEBSTER ST NW","Lead","8/26/2020",0.6
+47,"2325 32ND ST SE","Lead","7/29/2020",0.6
+48,"3030 44TH ST NW","Partial Lead","9/30/2020",0.6
+49,"307 South Carolina Ave SE","LEAD","7/28/2020",0.6
+50,"3245 38th St NW","Lead","10/25/2020",0.6
+51,"4014 Grant St NE","Lead","9/30/2020",0.6
+52,"412 BRANDYWINE ST SE","Lead","9/30/2020",0.6
+53,"4818 8th ST NW","Partial Lead","9/29/2020",0.6
+54,"1247 GIRARD ST NE","LEAD","8/25/2020",0.7
+55,"1402 MORSE ST NE","Lead","8/25/2020",0.7
+56,"2032 37TH ST NW","Lead","9/30/2020",0.7
+57,"2408 2nd St NE","Partial Lead","10/27/2020",0.7
+58,"305 7th St NE","Lead","7/28/2020",0.7
+59,"3206 38th St NW","Lead","8/26/2020",0.7
+60,"804 Delafield Pl NW","Lead","8/26/2020",0.7
+61,"1620 Underwood St NW","Lead","8/11/2020",0.8
+62,"1826 Jackson St NE","Lead","8/26/2020",0.9
+63,"3916 KANSAS AVE NW","Lead","9/29/2020",0.9
+64,"450 Newton Pl NW","Lead","9/29/2020",0.9
+65,"5520 CAROLINA PL NW","LEAD","9/10/2020",0.9
+66,"5600 NEBRASKA AVE NW","Lead","10/3/2020",0.9
+67,"3309 35TH ST NW","Lead","9/29/2020",1
+68,"3908 13TH ST NW","Lead","8/26/2020",1
+69,"80 Observatory Cir NW","Lead","9/24/2020",1
+70,"906 Crittenden St NW","Lead","8/25/2020",1
+71,"3307 Woodley RD NW","Lead","7/29/2020",1.1
+72,"525 9TH ST SE","Lead","7/29/2020",1.1
+73,"5923 33rd St NW","Lead","9/30/2020",1.1
+74,"1020 INDEPENDENCE AVE SE","Lead","9/29/2020",1.2
+75,"3629 Everett St NW","LEAD","7/29/2020",1.2
+76,"228 V ST NE","Lead","8/26/2020",1.3
+77,"3928 HUNTINGTON ST NW","Lead","7/30/2020",1.4
+78,"923 9TH ST NE","Lead","9/29/2020",1.4
+79,"1648 ARGONNE PL NW","Lead","7/31/2020",1.5
+80,"3822 Albemarle St NW","Lead","7/29/2020",1.5
+81,"118 18TH ST SE","LEAD","7/31/2020",1.6
+82,"1211 Carrollsburg Pl SW","Partial Lead","9/30/2020",1.6
+83,"3211 Central Ave NE","Lead","8/26/2020",1.6
+84,"5404 39TH ST NW","Partial Lead","10/1/2020",1.6
+85,"6806 LAUREL ST NW","LEAD","7/28/2020",1.7
+86,"2913 Brandywine St NW","Lead","9/30/2020",1.9
+87,"338 14th St SE","Lead","7/29/2020",1.9
+88,"3909 13TH ST NW","Lead","8/26/2020",2
+89,"1649 HARVARD ST NW","Lead","8/26/2020",2.2
+90,"3004 Alabama Ave SE","Lead","7/28/2020",2.3
+91,"3230 Woodley Rd NW","Lead","9/15/2020",2.3
+92,"1346 F St NE","Lead","9/29/2020",2.5
+93,"4118 Emery Pl NW","Lead","9/30/2020",2.6
+94,"2325 WYOMING AVE NW","Partial Lead","9/29/2020",2.7
+95,"3727 T St NW","Lead","9/30/2020",2.8
+96,"4529 Douglas St NE","Lead","7/29/2020",3.1
+97,"5700 SHERIER PL NW","Partial Lead","9/30/2020",3.2
+98,"2435 33RD ST SE","Lead","8/26/2020",3.7
+99,"4011 13TH ST NW","Lead","8/26/2020",3.7
+100,"1408 DECATUR ST NW","Lead","8/26/2020",3.8
+101,"10 S St NW","Lead","9/29/2020",3.9
+102,"324 Douglas St NE","Lead","8/26/2020",3.9
+103,"5427 Nevada Ave NW","Lead","8/27/2020",4.1
+104,"5731 3rd Pl NW","Lead","9/30/2020",4.5
+105,"1505 Buchanan St NW","Lead","10/1/2020",37.3
